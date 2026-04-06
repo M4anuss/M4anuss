@@ -1,4 +1,4 @@
-# Hola, soy Manu 👋
+# Hola, soy Manuss 👋
 
 Construyo sistemas, juegos y experiencias interactivas.
 
