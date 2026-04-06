@@ -1,47 +1,44 @@
 # Hola, soy Manu 👋
 
-Soy desarrollador y constructor de experiencias interactivas, sistemas de juego y productos digitales.
+Construyo sistemas, juegos y experiencias interactivas.
 
-Me enfoco en transformar ideas en proyectos reales, funcionales y escalables: desde plugins y arquitecturas backend hasta plataformas web, dashboards y experiencias interactivas para usuarios.
+Trabajo en proyectos donde la tecnología no es solo una herramienta, sino parte de la experiencia: mundos vivos, plataformas sociales, dashboards, plugins y productos diseñados para escalar.
 
-## 🚀 En qué estoy trabajando
+## 🚀 Proyectos
 
-- **Arcania**  
-  Un mundo interactivo con sistemas políticos, economía, reputación, organizaciones y mecánicas pensadas para sentirse vivas.
+**Bonemelt Studios** → Estudio a cargo de Proyectos como Arcania y Tailtales. Inversionista y Developer. Propietario Legal de la Marca. 
 
-- **TailTales**  
-  Un proyecto de entretenimiento/social con identidad propia, escalabilidad y una visión multiplataforma.
+  - **Arcania** → sistemas de juego, política, economía y estructuras interactivas, servidor de minecraft, plugins propios
+  - **TailTales** → plataforma social/entretenimiento con visión multiplataforma, base de datos, godot
+  - **Herramientas y sistemas propios** → backend, lógica, producto e integración de IA, plugins minecraft
+  
+  **Ultra Interactive** → Es una empresa dedicada a crear experiencias interactivas para eventos, combinando tecnología, diseño y entretenimiento.
+  
+   **Proyectos:**
 
-- **Sistemas y herramientas personalizadas**  
-  Desarrollo de plugins, estructuras backend, dashboards y soluciones a medida para experiencias digitales.
+  - **Ultra Interactive Web** → Framework Next.js 15, Tailwind CSS + CSS, Framer Motions, Prisma ORM, BD LOCAL (SQLite), Auth, Mini CMS
+  - **Selector de Videos** → Pagina web con Framework Next.js, selector de videos para **MIRADOR TEC** controlado por un Presenter. 
+  - **Trivia Maizar** → Pagina web con Framework Next.js, Trivia para Maizar con Menu de admin que permite customizar preguntas y respuestas. Toma de datos (Nombre, DNI, Mail), 
+    Base de datos y exportación de la misma desde menu admin. 
 
-## 🧠 Enfoque
 
-Me interesa construir productos con:
-- arquitectura sólida
-- escalabilidad real
-- buena experiencia de usuario
-- sistemas que tengan identidad
-- integración inteligente de IA en flujos de desarrollo y producto
+## 🛠 Stack
 
-## 🛠️ Tecnologías y herramientas
+[![Java](https://img.shields.io/badge/Java-Game_Systems-blue)](https://adoptium.net)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Scalable_Data-blue)](https://www.postgresql.org)
+[![Next.js](https://img.shields.io/badge/Next.js-Interactive_UI-black)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Application_Logic-blue)](https://www.typescriptlang.org)
+[![Minecraft](https://img.shields.io/badge/Minecraft-Custom_Servers-green)](https://papermc.io)
+[![AI](https://img.shields.io/badge/AI-Workflow_Engine-purple)](#)
 
-- **Java**
-- **PostgreSQL**
-- **Next.js**
-- **JavaScript / TypeScript**
-- **Git & GitHub**
-- **Diseño de sistemas**
-- **Desarrollo asistido por IA**
+## 🧠 Filosofía
 
-## 🎯 Qué me define
+Me interesa crear proyectos con identidad, estructura y futuro.  
+Menos humo. Más producto. Más ejecución.
 
-No busco escribir código por escribir código.  
-Busco construir experiencias, sistemas y productos que funcionen de verdad.
+## 📌 Perfil
 
-## 📌 Proyectos principales
-
-Podés explorar mis repositorios para ver en qué estoy trabajando actualmente y cómo encaro el desarrollo de sistemas, juegos y plataformas interactivas.
+En este GitHub comparto repositorios, ideas, sistemas y parte del proceso detrás de lo que construyo.
 
 ---
-**Código, producto y experiencia.**
+**El código es la herramienta. El objetivo es la experiencia.**
