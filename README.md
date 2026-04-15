@@ -102,6 +102,5 @@ Hoy desarrollo desde game systems hasta plataformas y software a medida, combina
 ## 🧠 Filosofía
 
 ```txt
-Menos humo.
-Más producto.
-Más ejecución.
+Prefiero morir de rodillas Xenofobo
+Que vivir de pie Progresista
