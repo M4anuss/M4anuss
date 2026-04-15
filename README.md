@@ -29,7 +29,7 @@ Trabajo en proyectos donde la tecnología no es solo una herramienta, sino parte
 [![Next.js](https://img.shields.io/badge/Next.js-Interactive_UI-black)](https://nextjs.org)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Application_Logic-blue)](https://www.typescriptlang.org)
 [![Minecraft](https://img.shields.io/badge/Minecraft-Custom_Servers-green)](https://papermc.io)
-[![AI](https://img.shields.io/badge/AI-Workflow_Engine-purple)](#)
+[![AI](https://img.shields.io/badge/Cursor_Engine-purple)](#)
 
 ## 🧠 Filosofía
 
