@@ -33,18 +33,21 @@ Hoy desarrollo desde game systems hasta plataformas y software a medida, combina
 ### 🧩 Bonemelt Studios
 > Inversionista · Developer · Propietario de la marca  
 
-- **Arcania**  
-  → Sistemas de juego, política, economía y estructuras interactivas  
-  → Servidor de Minecraft + plugins propios  
+- **GhostActivity**  
+  → Aplicación desktop para Discord Rich Presence personalizado  
+  → Tauri · React · TypeScript · Rust · Discord RPC  
+  → UX/UI inspirada en Discord + estética Bonemelt Studios  
+  → Sistema de presets, modo simple y arquitectura desktop premium  
 
 - **TailTales**  
-  → Plataforma social / entretenimiento  
+  → Plataforma social / entretenimiento 
+  → Landing Web
   → Arquitectura multiplataforma + Godot + DB  
 
 - **Core Systems**  
   → Backend + lógica de producto + IA  
-  → Infraestructura propia  
-
+  → Infraestructura propia
+  
 ---
 
 ### 🎮 Ultra Interactive
@@ -64,16 +67,17 @@ Hoy desarrollo desde game systems hasta plataformas y software a medida, combina
 ## ⚙️ Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,nextjs,postgres,sqlite&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tauri,rust,postgres,sqlite,supabase&theme=dark"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Spigot-Game%20Engine-F16436?style=for-the-badge&logo=spigotmc&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-Core-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Supabase-DB-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tauri-Desktop%20Apps-FFC131?style=for-the-badge&logo=tauri&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Rust-Systems%20Programming-000000?style=for-the-badge&logo=rust&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-Frontend-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-Logic-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor-AI-7F52FF?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tauri-Native%20Desktop-24C8DB?style=for-the-badge&logo=tauri&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-AI%20Development-7F52FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Claude-Code%20Architecture-D97706?style=for-the-badge"/>
 </p>
 
 ---
@@ -102,5 +106,10 @@ Hoy desarrollo desde game systems hasta plataformas y software a medida, combina
 ## 🧠 Filosofía
 
 ```txt
-Prefiero morir de rodillas Xenofobo
-Que vivir de pie Progresista
+La programación dejó de ser solo escribir código.
+
+Ahora también se trata de dirigir inteligencias, construir sistemas y diseñar experiencias.
+
+El mundo no espera.
+Hay que adaptarse.
+```
