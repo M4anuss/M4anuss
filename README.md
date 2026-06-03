@@ -31,7 +31,7 @@ Hoy desarrollo desde game systems hasta plataformas y software a medida, combina
 ## 🚀 Proyectos
 
 ### 🧩 Bonemelt Studios
-> Inversionista · Developer · Propietario de la marca  
+> Co-Fundador · Inversionista · Developer · Propietario de la marca  
 
 - **GhostActivity**  
   → Aplicación desktop para Discord Rich Presence personalizado  
